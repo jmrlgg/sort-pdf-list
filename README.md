@@ -1,6 +1,6 @@
 # Sort Your PDFs and EPUBs with a Keyword  
 
-This script scans for PDF and EPUB files, then labels each one with a keyword of your choice.  
+This script scans for PDF and EPUB files, then labels each one with a keyword of your choice.  Each Category has it's on CSV
 
 ## Steps to Use  
 
@@ -48,3 +48,10 @@ CATEGORIES = {
         "songbook"
     ]
 }
+
+
+TODO: 
+Create an append feature atm I am deleting and creating new each time
+use pages in future
+create feature that connects to file server > search for like names > relay such data > present such data > save data 
+
