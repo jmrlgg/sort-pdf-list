@@ -51,7 +51,7 @@ CATEGORIES = {
 ```
 
 **TODO**: 
-- [] Create an append feature atm I am deleting and creating new each time
-- [] use pages in future
-- [] create feature that connects to file server > search for like names > relay such data > present such data > save data 
+- [ ] Create an append feature atm I am deleting and creating new each time
+- [ ] use pages in future
+- [ ] create feature that connects to file server > search for like names > relay such data > present such data > save data 
 
