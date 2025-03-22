@@ -7,10 +7,13 @@ This script scans for PDF and EPUB files, then labels each one with a keyword of
 1. **Change Directory**  
    Modify the working directory in the script. By default, it operates in the directory where the file resides.  
 
-2. **Customize Keywords**  
-   Edit the keyword categories to fit your needs.  
+2. **Create Categories**
+   Change Categories to fit your needs  / comment the rest out 
 
-3. **Run the Script**  
+3. **Customize Keywords**  
+   Edit the keyword categories to fit your needs.
+
+4. **Run the Script**  
    Execute the following command:  
 
    ```sh
@@ -49,8 +52,10 @@ CATEGORIES = {
     ]
 }
 ```
+--- *** ___
 
 **TODO**: 
+--------
 - [ ] Create an append feature atm I am deleting and creating new each time
 - [ ] use pages in future
 - [ ] create feature that connects to file server > search for like names > relay such data > present such data > save data 
