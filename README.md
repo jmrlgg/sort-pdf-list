@@ -7,7 +7,7 @@ This script scans for PDF and EPUB files, then labels each one with a keyword of
 1. **Change Directory**  
    Modify the working directory in the script. By default, it operates in the directory where the file resides.  
 
-2. **Create Categories**
+2. **Create Categories**  
    Change Categories to fit your needs  / comment the rest out 
 
 3. **Customize Keywords**  
